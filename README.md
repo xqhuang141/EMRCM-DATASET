@@ -14,7 +14,10 @@ three datasets: elementary, middle and high
 For relationship between keywords:
 
 A:B A is a prerequisite concept of B
+
 A:B|C A:B and A:C
+
 A|B A is a closeness concept of B
+
 A|B|C A|B and A|C and B|C
 
